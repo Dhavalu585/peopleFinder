@@ -1,5 +1,5 @@
 import React from 'react';
-import './results.css';
+import '../styles/results.css';
 
 const Results = ({status, response}) => {
 	if(!status && !response.length) {
