@@ -102,6 +102,7 @@ li:last-child {
 
 .result:last-child {
   border-radius: 0 0 5px 5px;
+  margin-bottom: 20px;
 }
 
 .no-results {
